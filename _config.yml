@@ -1,0 +1,28 @@
+name: Fotografie
+favicon: null
+layout_spectrum: 0.4860768362414092
+typography_spectrum: 0.024578949436545372
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.04193775961175561
+  lightness: 0.21480630710721016
+  saturation: 0.015069415792822838
+  rhythmicContrast: 0.2590435422025621
+purpose: []
